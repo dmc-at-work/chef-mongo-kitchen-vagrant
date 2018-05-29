@@ -1,0 +1,7 @@
+DEPENDENCIES
+  chef-mongo-kitchen-vagrant
+    path: .
+    metadata: true
+
+GRAPH
+  chef-mongo-kitchen-vagrant (0.1.0)
